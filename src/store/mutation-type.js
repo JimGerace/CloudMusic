@@ -1,0 +1,13 @@
+export const PUT_SEARCH = 'PUT_SEARCH'
+
+export const PUT_CURID = 'PUT_CURID'
+
+export const PUT_CURRENTPLAYLIST = 'PUT_CURRENTPLAYLIST'
+
+export const PUT_LISTID = 'PUT_LISTID'
+
+export const PUT_ISFOOTER = 'PUT_ISFOOTER'
+
+export const PUT_DURATION = 'PUT_DURATION'
+
+export const PUT_ISCONTROL = 'PUT_ISCONTROL'
